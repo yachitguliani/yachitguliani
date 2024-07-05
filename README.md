@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yachit guliani</h1>
 <h3 align="center">A passionate frontend developer/Defence Aspirant from India,</h3>
 
-- 🔭 I’m currently working on **Fligh controller pcb**
+- 🔭 I’m currently working on **some personal projects related to various fields such as cyber security, pcb fabrication,web dev and much more{just exploring}*
 
 - 🌱 I’m currently learning **EASY EDA, KALI LINUX**
 
