@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **yachitguliani2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CqUYBquTfygSP3gRoHfAbd1E_w48YV02/view?usp=drivesdk](https://drive.google.com/file/d/1CqUYBquTfygSP3gRoHfAbd1E_w48YV02/view?usp=drivesdk)
-
+- 📄 Know about my experiences 
 - ⚡ Fun fact **I love cycling**
 
 <h3 align="left">Connect with me:</h3>
